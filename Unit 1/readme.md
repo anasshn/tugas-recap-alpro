@@ -20,7 +20,7 @@ Baris 2 menampilkan hasil perhitungan jarak dalam float (2 angka dibelakang koma
 Baris 3 menampilkan hasil perhitungan waktu dalam float (2 angka dibelakang koma)
 
 Note: konversikan terlebih dahulu semua masukan menjadi float
-contoh: `**float perpindahan = (float) usaha / gaya;**`
+contoh: **float perpindahan = (float) usaha / gaya;**
 
 ## Jawaban
 [klik](https://github.com/anasshn/tugas-recap-alpro/blob/main/Unit%201/latihan.c)
